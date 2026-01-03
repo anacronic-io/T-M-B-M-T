@@ -1,0 +1,16 @@
+# T-M-B-M-T Verification Suite Requirements
+
+# Core JAX ecosystem
+jax>=0.4.20
+jaxlib>=0.4.20
+flax>=0.7.0
+
+# Numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: GPU support
+# Install with: pip install jax[cuda12_pip] -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
